@@ -17,6 +17,7 @@ class ProductCard extends Component {
                             <Card.Text style={{ color: 'red', fontWeight: 'bold' }}>
                                 ${this.props.price}
                             </Card.Text>
+                            
                             <Button variant="primary">BUY THE BOOK</Button>
                         </Card.Body>
                     </Card></div>
