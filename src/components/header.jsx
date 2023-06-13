@@ -12,7 +12,7 @@ class Header extends Component {
             <Navbar style={{ backgroundColor: '#000000' }} sticky="top" expand="lg">
                 <Container>
                     <Navbar.Brand href="#home" style={{ color: 'white' }}>
-                        <FaBook /> Murakami's Wonderland
+                        <FaBook /> hello git
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
